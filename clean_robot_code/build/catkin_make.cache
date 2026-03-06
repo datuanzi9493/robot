@@ -1,0 +1,2 @@
+carry_robot:clean_desktop_robot:clean_robot:shoot_robot
+-DCATKIN_DEVEL_PREFIX=/home/bcsh/clean_robot_code/devel -DCMAKE_INSTALL_PREFIX=/home/bcsh/clean_robot_code/install -G Unix Makefiles

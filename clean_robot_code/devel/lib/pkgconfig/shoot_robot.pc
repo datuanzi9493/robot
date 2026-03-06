@@ -1,0 +1,8 @@
+prefix=/home/bcsh/clean_robot_code/devel
+
+Name: shoot_robot
+Description: Description of shoot_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
