@@ -1,0 +1,8 @@
+prefix=/home/bcsh/upros_class_code/devel
+
+Name: upros_arm
+Description: Description of upros_arm
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: upros_message tf2_ros

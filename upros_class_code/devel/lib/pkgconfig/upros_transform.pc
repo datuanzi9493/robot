@@ -1,0 +1,8 @@
+prefix=/home/bcsh/upros_class_code/devel
+
+Name: upros_transform
+Description: Description of upros_transform
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/bcsh/upros_class_code/install
+
+Name: upros_gui
+Description: Description of upros_gui
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

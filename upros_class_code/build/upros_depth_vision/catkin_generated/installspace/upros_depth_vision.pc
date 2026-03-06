@@ -1,0 +1,8 @@
+prefix=/home/bcsh/upros_class_code/install
+
+Name: upros_depth_vision
+Description: Description of upros_depth_vision
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp pcl_ros tf2 tf2_ros

@@ -1,0 +1,8 @@
+prefix=/home/bcsh/upros_class_code/install
+
+Name: upros_cv
+Description: Description of upros_cv
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

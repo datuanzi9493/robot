@@ -1,0 +1,8 @@
+prefix=/home/bcsh/upros_class_code/install
+
+Name: upros_navigation
+Description: Description of upros_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp actionlib actionlib_msgs move_base_msgs tf

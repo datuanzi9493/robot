@@ -1,0 +1,8 @@
+prefix=/home/bcsh/upros_class_code/install
+
+Name: handsfree_ros_imu
+Description: Description of handsfree_ros_imu
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: std_msgs geometry_msgs

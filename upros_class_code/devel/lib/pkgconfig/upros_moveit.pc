@@ -1,0 +1,8 @@
+prefix=/home/bcsh/upros_class_code/devel
+
+Name: upros_moveit
+Description: Description of upros_moveit
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: upros_message actionlib

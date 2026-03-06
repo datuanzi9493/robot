@@ -1,0 +1,8 @@
+prefix=/home/bcsh/upros_class_code/devel
+
+Name: upros_chat
+Description: Description of upros_chat
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

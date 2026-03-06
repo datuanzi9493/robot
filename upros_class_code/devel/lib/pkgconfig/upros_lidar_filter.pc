@@ -1,0 +1,8 @@
+prefix=/home/bcsh/upros_class_code/devel
+
+Name: upros_lidar_filter
+Description: Description of upros_lidar_filter
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

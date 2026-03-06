@@ -1,0 +1,8 @@
+prefix=/home/bcsh/upros_class_code/devel
+
+Name: usb_cam
+Description: Description of usb_cam
+Version: 0.3.4
+Cflags: -I/home/bcsh/upros_class_code/src/usb_cam/include
+Libs: -L${prefix}/lib -lusb_cam
+Requires: 

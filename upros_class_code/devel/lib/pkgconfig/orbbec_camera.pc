@@ -1,0 +1,8 @@
+prefix=/home/bcsh/upros_class_code/devel
+
+Name: orbbec_camera
+Description: Description of orbbec_camera
+Version: 1.5.7
+Cflags: -I/home/bcsh/upros_class_code/devel/include -I/home/bcsh/upros_class_code/src/upros_hardware/orbbecsdk/include
+Libs: -L${prefix}/lib -lorbbec_camera
+Requires: camera_info_manager cv_bridge dynamic_reconfigure image_geometry image_transport message_filters message_runtime roscpp sensor_msgs std_srvs tf2 tf2_ros

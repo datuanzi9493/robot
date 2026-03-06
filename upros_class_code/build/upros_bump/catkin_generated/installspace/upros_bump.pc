@@ -1,0 +1,8 @@
+prefix=/home/bcsh/upros_class_code/install
+
+Name: upros_bump
+Description: Description of upros_bump
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

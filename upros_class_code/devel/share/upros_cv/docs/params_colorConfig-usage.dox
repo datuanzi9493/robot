@@ -1,0 +1,12 @@
+\subsubsection usage Usage
+\verbatim
+<node name="grab_demo" pkg="upros_cv" type="grab_demo">
+  <param name="HSV_H_MIN" type="int" value="0" />
+  <param name="HSV_S_MIN" type="int" value="60" />
+  <param name="HSV_V_MIN" type="int" value="60" />
+  <param name="HSV_H_MAX" type="int" value="180" />
+  <param name="HSV_S_MAX" type="int" value="255" />
+  <param name="HSV_V_MAX" type="int" value="255" />
+</node>
+\endverbatim
+
